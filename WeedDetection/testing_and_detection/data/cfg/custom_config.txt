@@ -1,0 +1,3 @@
+add custom config file in this folder if you want to run with another config file or cnn architecture.
+
+make sure the file name is "crop_weed.cfg".
